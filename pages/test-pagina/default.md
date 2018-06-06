@@ -1,5 +1,5 @@
 ---
 title: 'Test Pagina'
-published: false
+published: true
 ---
 
