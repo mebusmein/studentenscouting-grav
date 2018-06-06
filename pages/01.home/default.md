@@ -61,7 +61,7 @@ twig_first: false
                 <div class="row">
                     <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-university"></i> Amsterdam</h2>
-                        <p>Het staat niet bekend als studentenstad, maar juist met het ontelbaar aantal instanties voor hoger onderwijs is het niet gek dat hier ook studentenscouts actief zijn.</p>
+                        <p>Op dit moment is er geen studentenstam actief in onze hoofdstad. Heb je zin om hier iets nieuws op te starten? Neem vooral contact met ons op!</p>
                         <a href="http://www.studentenscoutingamsterdam.nl">Lees meer</a>
                     </div>
 
