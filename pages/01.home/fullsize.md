@@ -22,7 +22,7 @@ twig_first: false
                     </div>
                 </div>
             </div>
-            <div class="item" style="background-image: url({{ page.media['bg1.jpg'].url }})">
+            <div class="item" style="background-image: url({{ page.media['bg2.jpg'].url }})">
                 <div class="carousel-caption container">
                     <div class="row">
                         <h1>studentenscouting</h1>
