@@ -1,0 +1,14 @@
+Beheerders:
+  groupname: Beheerders
+  readableName: Beheerder
+  description: 'Mensen die de website mogen aanpassen'
+  access:
+    site:
+      login: 'true'
+    admin:
+      login: 'true'
+      configuration_media: 'true'
+      configuration_info: 'true'
+      pages: 'true'
+      statistics: 'true'
+    admin-addon-user-manager: {  }

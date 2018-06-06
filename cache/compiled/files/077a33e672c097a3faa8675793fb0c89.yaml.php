@@ -1,0 +1,40 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/home/mebus/Workspace/studentenscouting-grav/user/themes/studenten-scouting/blueprints.yaml',
+    'modified' => 1528279333,
+    'data' => [
+        'name' => 'Studenten Scouting',
+        'version' => '0.1.0',
+        'description' => 'Een theme speciaal in elkaar gezet voor de Studentenscouting website',
+        'icon' => 'rebel',
+        'author' => [
+            'name' => 'Tim Mein',
+            'email' => 'mebusmein@gmail.com'
+        ],
+        'homepage' => 'https://github.com/tim-mein/grav-theme-studenten-scouting',
+        'demo' => 'http://demo.yoursite.com',
+        'keywords' => 'grav, theme, etc',
+        'bugs' => 'https://github.com/tim-mein/grav-theme-studenten-scouting/issues',
+        'readme' => 'https://github.com/tim-mein/grav-theme-studenten-scouting/blob/develop/README.md',
+        'license' => 'MIT',
+        'form' => [
+            'validation' => 'loose',
+            'fields' => [
+                'dropdown.enabled' => [
+                    'type' => 'toggle',
+                    'label' => 'Dropdown in Menu',
+                    'highlight' => 1,
+                    'default' => 1,
+                    'options' => [
+                        1 => 'PLUGIN_ADMIN.ENABLED',
+                        0 => 'PLUGIN_ADMIN.DISABLED'
+                    ],
+                    'validate' => [
+                        'type' => 'bool'
+                    ]
+                ]
+            ]
+        ]
+    ]
+];
