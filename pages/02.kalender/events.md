@@ -1,5 +1,6 @@
 ---
 title: Kalender
+visible: false
 content:
     items:
         '@taxonomy':
