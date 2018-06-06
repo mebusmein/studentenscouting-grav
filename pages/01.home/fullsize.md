@@ -127,6 +127,9 @@ twig_first: false
             <div class="col-sm-6 our-office">
                 <div id="office-carousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
+                         <div class="item active">
+                            <img src="{{ page.media['IMG_E1769.JPG'].url }}" alt="">
+                        </div>
                         <a class="office-carousel-left" href="#office-carousel" data-slide="prev"><i
                                 class="fa fa-angle-left"></i></a>
                         <a class="office-carousel-right" href="#office-carousel" data-slide="next"><i
