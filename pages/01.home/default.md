@@ -73,7 +73,7 @@ twig_first: false
 
                     <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-laptop"></i> Enschede</h2>
-                        <p>Tussen alle serieuze technici in Enschede zijn ook toffe mensen op de campus die het blijkbaar leuk vinden om midden in de winter een barbecue te houden.</p>
+                        <p>Tussen alle serieuze technici in Enschede zijn ook toffe mensen op de campus die bijvoorbeeld midden in de winter een barbecue te houden.</p>
                         <a href="http://www.radixenschede.nl">Lees meer</a>
                     </div>
                 </div>
@@ -82,20 +82,19 @@ twig_first: false
                 <div class="row">
                     <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-glass"></i> Groningen</h2>
-                        <p>Hoog in het noorden daar ligt de stad, <br>
-                            Die altijd al de leukste studentenscouting heeft gehad.</p>
+                        <p>Prominent aanwezig op regionale en nationale evenementen, maar vooral een bron van gezelligheid in eigen stad.</p>
                         <a href="https://martinistam.nl">Lees meer</a>
                     </div>
 
                     <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-key"></i> Leiden</h2>
-                        <p>De jongste studentenstam in het rijtje. Er wordt goed gebruik gemaakt van het studenten-OV door ook andere steden in de Randstad onveilig te maken.</p>
+                        <p>De jongste studentenstam in het rijtje, maar al ontzettend actief. Een reuzenrad bouwen, of de oude binnenstad verkennen, het kan allemaal!</p>
                         <a href="https://www.facebook.com/sleutelstam">Lees meer</a>
                     </div>
 
                     <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-coffee"></i> Nijmegen</h2>
-                        <p>Net onder de rivieren waar gelukkig nog meer te beleven is dan alleen de Vierdaagse.</p>
+                        <p>Net onder de rivieren is gelukkig nog meer te beleven dan alleen de Vierdaagse.</p>
                         <a href="https://www.facebook.com/studentenstam">Lees meer</a>
                     </div>
                 </div>
@@ -163,7 +162,7 @@ twig_first: false
                         <p>""</p>
                         <div class="st-border"></div>
                         <div class="client-info">
-                            <h5>Yke wijnker</h5>
+                            <h5>Yke Wijnker</h5>
                             <span>Babbelbox</span>
                         </div>
                     </div>
@@ -178,11 +177,11 @@ twig_first: false
                     </div>
 
                     <div class="item text-center">
-                        <p>""</p>
+                        <p>"Vo voor de leden!"</p>
                         <div class="st-border"></div>
                         <div class="client-info">
-                            <h5>Lennard de Vries</h5>
-                            <span>Voormalig voorzitter</span>
+                            <h5>Evelien Visscher</h5>
+                            <span>Voorzitter Sleutelstam</span>
                         </div>
                     </div>
 
