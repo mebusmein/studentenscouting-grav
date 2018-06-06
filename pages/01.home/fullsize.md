@@ -130,6 +130,9 @@ twig_first: false
                         <div class="item active">
                             <img src="{{ page.media['bg2.jpg'].url }}" alt="">
                         </div>
+                        <div class="item">
+                        	<img src="{{ page.media['IMG_1804.JPG'].url }}">    
+                        </div>
                         <a class="office-carousel-left" href="#office-carousel" data-slide="prev"><i
                                 class="fa fa-angle-left"></i></a>
                         <a class="office-carousel-right" href="#office-carousel" data-slide="next"><i
