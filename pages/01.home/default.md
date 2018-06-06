@@ -159,7 +159,7 @@ twig_first: false
                     </div>
 
                     <div class="item text-center">
-                        <p>""</p>
+                        <p>"Ik ben geen bemoeial, ik regel gewoon heel veel."</p>
                         <div class="st-border"></div>
                         <div class="client-info">
                             <h5>Yke Wijnker</h5>
@@ -167,14 +167,6 @@ twig_first: false
                         </div>
                     </div>
 
-                    <div class="item text-center">
-                        <p>""</p>
-                        <div class="st-border"></div>
-                        <div class="client-info">
-                            <h5>Amber wijnker</h5>
-                            <span>Doet ook iets met Scouting</span>
-                        </div>
-                    </div>
 
                     <div class="item text-center">
                         <p>"Vo voor de leden!"</p>
@@ -184,16 +176,6 @@ twig_first: false
                             <span>Voorzitter Sleutelstam</span>
                         </div>
                     </div>
-
-                    <div class="item text-center">
-                        <p>"En dan denk ik aan Brabant, want daar brandt nog licht"</p>
-                        <div class="st-border"></div>
-                        <div class="client-info">
-                            <h5>Bart Swinkels</h5>
-                            <span>Verdwaalde Brabander</span>
-                        </div>
-                    </div>
-
 
                 </div>
             </div>
