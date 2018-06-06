@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'bg1.jpg,bg4.jpg'
+media_order: 'bg1.jpg,bg4.jpg,bg2.jpg'
 process:
     markdown: true
     twig: true
@@ -128,7 +128,7 @@ twig_first: false
                 <div id="office-carousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="http://studentenscouting.nl/img/bg2.jpg" alt="">
+                            <img src="{{ page.media['bg2.jpg'].url }}" alt="">
                         </div>
                         <a class="office-carousel-left" href="#office-carousel" data-slide="prev"><i
                                 class="fa fa-angle-left"></i></a>
