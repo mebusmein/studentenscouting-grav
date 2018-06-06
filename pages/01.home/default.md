@@ -185,6 +185,16 @@ twig_first: false
                         </div>
                     </div>
 
+                    <div class="item text-center">
+                        <p>"En dan denk ik aan Brabant, want daar brandt nog licht"</p>
+                        <div class="st-border"></div>
+                        <div class="client-info">
+                            <h5>Bart Swinkels</h5>
+                            <span>Verdwaalde Brabander</span>
+                        </div>
+                    </div>
+
+
                 </div>
             </div>
         </div>
