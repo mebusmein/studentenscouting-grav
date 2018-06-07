@@ -183,7 +183,8 @@ twig_first: false
                         <div class="client-info">
                             <h5>Bart Swinkels</h5>
                             <span>Verdwaalde Brabander</span>
-                        </div>
+                         </div>
+                   </div>
 
 
                     <div class="item text-center">
@@ -192,7 +193,8 @@ twig_first: false
                         <div class="client-info">
                             <h5>Anniek de Hoop</h5>
                             <span>Roze haar</span>
-                        </div>
+                         </div>
+                   </div>
 
                 </div>
             </div>
