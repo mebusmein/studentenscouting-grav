@@ -187,15 +187,6 @@ twig_first: false
                    </div>
 
 
-                    <div class="item text-center">
-                        <p>"In ieder tentje een ander ventje!"</p>
-                        <div class="st-border"></div>
-                        <div class="client-info">
-                            <h5>Anniek de Hoop</h5>
-                            <span>Roze haar</span>
-                         </div>
-                   </div>
-
                 </div>
             </div>
         </div>
