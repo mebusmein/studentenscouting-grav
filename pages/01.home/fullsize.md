@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'bg1.jpg,bg4.jpg,bg2.jpg'
+media_order: 'bg1.jpg,bg4.jpg,bg2.jpg,IMG_E1769.JPG,SSN foto.jpeg'
 process:
     markdown: true
     twig: true
@@ -196,8 +196,9 @@ twig_first: false
 
 
 <!-- CONTACT -->
+![](SSN%20foto.jpeg)
 <section id="contact">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title">
