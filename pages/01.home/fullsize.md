@@ -118,7 +118,7 @@ twig_first: false
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <div class="about-us text-center">
+                <div class="about-us">
                     <h4>Wat is studentenscouting?</h4>
                     <p>Eigenlijk precies wat de naam suggereert. Studentenscouting is gericht op scouts die studeren en graag bij een vereniging willen die perfect aansluit op hun interesses. Het is inmiddels al te vinden in zeven verschillende steden, en de verenigingen zijn ook actief op landelijke evenementen. Aangezien de activiteiten meestal doordeweeks zijn, is dit makkelijk te combineren met een lidmaatschap bij een andere groep.</p>
                 </div>
