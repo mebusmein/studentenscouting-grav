@@ -40,15 +40,6 @@ twig_first: false
                     </div>
                 </div>
             </div>
-              <div class="item" style="background-image: url({{ page.media![](SSN%20foto.jpeg).url }})">
-                <div class="carousel-caption container">
-                    <div class="row">
-                        <h1>studentenscouting</h1>
-                        <h2>Op zomerkamp</h2>
-                        <p>Waarom niet?</p>
-                    </div>
-                </div>
-            </div>
             <a class="home-carousel-left" href="#home-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
             <a class="home-carousel-right" href="#home-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
         </div>
