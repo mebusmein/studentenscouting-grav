@@ -115,7 +115,7 @@ twig_first: false
 
 <!-- ABOUT US -->
 <section id="about-us">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <div class="col-sm-6">
                 <div class="about-us text-center">
@@ -197,7 +197,7 @@ twig_first: false
 
 <!-- CONTACT -->
 <section id="contact">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title">
