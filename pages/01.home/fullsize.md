@@ -205,18 +205,6 @@ twig_first: false
                     <span class="st-border"></span>
                 </div>
             </div>
-                                    <div class="col-sm-6 our-office">
-                <div id="office-carousel" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                         <div class="item active">
-                            <img src="{{ page.media['SSN foto.jpeg'].url }}" alt="">
-                        </div>
-                        <a class="office-carousel-left" href="#office-carousel" data-slide="prev"><i
-                                class="fa fa-angle-left"></i></a>
-                        <a class="office-carousel-right" href="#office-carousel" data-slide="next"><i
-                                class="fa fa-angle-right"></i></a>
-                    </div>
-                </div> <!--/#office-carousel-->
             <div class="col-sm-4 contact-info">
                 <p class="contact-content">
                     Wil je meer weten over studentenscouting? Ben je van plan om een studentenstam op te richten in jouw stad en wil je graag advies en ondersteuning hierbij? Of ben je benieuwd wat een studentenstam voor jou kan betekenen op regionaal of nationaal niveau?
