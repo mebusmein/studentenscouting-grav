@@ -196,7 +196,9 @@ twig_first: false
 
 
 <!-- CONTACT -->
-![](SSN%20foto.jpeg)
+ <div class="item active">
+                            <img src="{{ page.media['SSN foto.jpeg'].url }}" alt="">
+                        </div>
 <section id="contact">
     <div class="container-fluid">
         <div class="row">
