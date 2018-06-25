@@ -199,6 +199,18 @@ twig_first: false
 <section id="contact">
     <div class="container">
         <div class="row">
+                        <div class="col-sm-6 our-office">
+                <div id="office-carousel" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                         <div class="item active">
+                            <img src="{{ page.media['SSN foto.jpeg'].url }}" alt="">
+                        </div>
+                        <a class="office-carousel-left" href="#office-carousel" data-slide="prev"><i
+                                class="fa fa-angle-left"></i></a>
+                        <a class="office-carousel-right" href="#office-carousel" data-slide="next"><i
+                                class="fa fa-angle-right"></i></a>
+                    </div>
+                </div> <!--/#office-carousel-->
             <div class="col-md-12">
                 <div class="section-title">
                     <h1>Contact</h1>
