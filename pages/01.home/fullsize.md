@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'bg1.jpg,bg4.jpg,bg2.jpg,IMG_E1769.JPG,SSN foto.jpeg'
+media_order: 'bg1.jpg,bg4.jpg,bg2.jpg,IMG_E1769.JPG,IMG_20180623_163006.jpg'
 process:
     markdown: true
     twig: true
@@ -11,7 +11,7 @@ twig_first: false
 <section id="slider">
     <div id="home-carousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
-            <div class="item active" style="background-image: url({{ page.media['SSN%20foto.jpeg'].url }})">
+            <div class="item active" style="background-image: url({{ page.media['IMG_20180623_163006.jpg'].url }})">
                 <div class="carousel-caption container">
                     <div class="row">
                         <div class="col-sm-7">
