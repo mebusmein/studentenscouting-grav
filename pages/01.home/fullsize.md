@@ -11,7 +11,7 @@ twig_first: false
 <section id="slider">
     <div id="home-carousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
-            <div class="item active" style="background-image: url({{ page.media['SSN foto.jpeg'].url }})">
+            <div class="item active" style="background-image: url({{ page.media['SSN%20foto.jpeg'].url }})">
                 <div class="carousel-caption container">
                     <div class="row">
                         <div class="col-sm-7">
