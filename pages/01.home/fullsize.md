@@ -116,7 +116,7 @@ twig_first: false
                     </div>
                     
                      <div class="col-md-4 col-sm-6 st-service">
-                        <h2><i class="fas fa-lightbulb"></i>Utrecht</h2>
+                        <h2><i class="fa fa-beer"></i>Utrecht</h2>
                         <p>In het midden van het land, én het middelpunt van gezelligheid</p>
                         <a href=&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#x3a;&#x75;&#x74;&#x72;&#x65;&#99;&#104;&#116;&#x40;&#115;&#116;&#117;&#100;&#101;&#x6e;&#x74;&#x65;&#x6e;&#x73;&#x63;&#111;&#117;&#116;&#x69;&#110;&#x67;&#x2e;&#110;&#x6c;>Neem contact op met Utrecht</a>
                     </div>
