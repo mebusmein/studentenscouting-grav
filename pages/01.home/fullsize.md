@@ -59,6 +59,7 @@ twig_first: false
             </div>
             <div class="col-md-12">
                 <div class="row">
+                  
                     <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-university"></i> Amsterdam</h2>
                         <p>Op dit moment is er geen studentenstam actief in onze hoofdstad. Heb je zin om hier iets nieuws op te starten? Neem vooral contact met ons op!</p>
@@ -96,8 +97,11 @@ twig_first: false
                         <p>Net onder de rivieren is gelukkig nog meer te beleven dan alleen de Vierdaagse.</p>
                         <a href="https://www.facebook.com/studentenstam">Lees meer</a>
                     </div>
-                    
-                     <div class="col-md-4 col-sm-6 st-service">
+                 </div>
+            </div>
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-leaf"></i> Wageningen</h2>
                         <p>Het zou toch raar zijn als bij de universiteit voor alle liefhebbers van geitenwollen sokken en vegetarische burgers geen studentenstam te vinden zou zijn?</p>
                         <a href="http://www.yggdrasilstam.nl">Lees meer</a>
@@ -114,7 +118,6 @@ twig_first: false
                         <p>In het midden van het land, én het middelpunt van gezelligheid</p>
                         <a href=&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#x3a;&#x75;&#x74;&#x72;&#x65;&#99;&#104;&#116;&#x40;&#115;&#116;&#117;&#100;&#101;&#x6e;&#x74;&#x65;&#x6e;&#x73;&#x63;&#111;&#117;&#116;&#x69;&#110;&#x67;&#x2e;&#110;&#x6c;>Neem contact op met Utrecht</a>
                     </div>
-                   
                 </div>
             </div>
         </div>
