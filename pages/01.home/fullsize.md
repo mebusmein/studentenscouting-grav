@@ -110,7 +110,7 @@ twig_first: false
                     </div>
                     
                      <div class="col-md-4 col-sm-6 st-service">
-                        <h2><i class="fas fa-lightbulb"></i> Eindhoven</h2>
+                        <h2><i class="fa fa-lightbulb-o"></i> Eindhoven</h2>
                         <p>Ook in de Slimste Regio ter Wereld is nu een studentenstam! </p>
                         <a href="http://www.studentenscoutingeindhoven.nl">Lees meer</a>
                     </div>
