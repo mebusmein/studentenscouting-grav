@@ -87,7 +87,7 @@ twig_first: false
 
                     <div class="col-md-4 col-sm-6 st-service">
                         <h2><i class="fa fa-key"></i> Leiden</h2>
-                        <p>De jongste studentenstam in het rijtje, maar al ontzettend actief. Een reuzenrad bouwen, of de oude binnenstad verkennen, het kan allemaal!</p>
+                        <p>De jongste officiële studentenstam in het rijtje, maar al ontzettend actief. Een reuzenrad bouwen, of de oude binnenstad verkennen, het kan allemaal!</p>
                         <a href="https://www.facebook.com/sleutelstam">Lees meer</a>
                     </div>
 
@@ -110,7 +110,7 @@ twig_first: false
               <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-4 col-sm-6 st-service">
-                        <h2><i class="far fa-lightbulb"></i>Eindhoven</h2>
+                        <h2><i class="fa fa-lightbulb"></i>Eindhoven</h2>
                         <p>Ook in de Slimste Regio ter Wereld is nu een studentenstam! </p>
                         <a href="http://www.studentenscoutingeindhoven.nl">Lees meer</a>
                     </div>
